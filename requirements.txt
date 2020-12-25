@@ -1,0 +1,13 @@
+librosa==0.8.0
+logmmse==1.5
+matplotlib==3.2.0
+moviepy==1.0.3
+numpy==1.19.2
+pandas==1.1.2
+scikit-learn==0.23.2
+scipy==1.5.4
+spectralcluster==0.1.0
+nltk
+seaborn==0.10.1
+spacy==2.3.2
+xlrd==1.2.0
